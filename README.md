@@ -1,5 +1,7 @@
-
 <img src="https://capsule-render.vercel.app/api?type=shark&height=250&color=ffdddd&text=Han's%20Github!&fontSize=70&fontAlignY=43&fontColor=333333&fontAlign=50&section=header&animation=twinkling" />
+
+
+<line />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dracula"
