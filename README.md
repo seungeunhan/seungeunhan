@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Han's%20Gitbub!&fontAlign=51&fontAlignY=50&section=header&reversal=false&strokeWidth=0&descAlign=60&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Han's%20Gitbub!&fontAlign=51&fontAlignY=150&section=header&reversal=false&fontColor=666666&strokeWidth=0&descAlign=60&descAlignY=60" />
 
 <picture>
   <source
