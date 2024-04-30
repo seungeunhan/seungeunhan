@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=shark&height=250&color=ffdddd&text=Han's%20Github!&fontSize=70&fontAlignY=43&fontColor=333333&fontAlign=50&section=header&animation=twinkling" />
   
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/>
   
   <p>안녕하세요😊 <br>  새로운 기술을 배우고 성장하는 것을 즐기는 신입 개발자입니다!<br> 웹 개발자를 목표로 공부중이며, 노션과 깃허브에서 코드 및 프로젝트 관리를 하고 있습니다.</p>
   
