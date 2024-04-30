@@ -7,8 +7,8 @@
   
   <br/><br/>
 
-  # 📚 Dev Log's 📚
-  ##
+  ## 📚 Dev Log's 📚
+
   
   <a href="https://www.notion.so/SEHan-15b3169807a64442869953b9a1d216ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   
