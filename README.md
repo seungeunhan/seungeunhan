@@ -43,7 +43,8 @@
  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
   <br/><br/><br/><br/><br/><br/>
-  
+
+<div style="display:flex; flex-direction:row;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dracula"
@@ -53,6 +54,6 @@
   </picture>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namu_yo)](https://solved.ac/namu_yo/)
-  
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&fontAlign=50&fontAlignY=45&section=footer&reversal=false&fontColor=333333&strokeWidth=0&descAlign=60&descAlignY=60" />
 </div>
