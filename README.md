@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=180&color=gradient&text=Han's%20Gitbub&fontSize=65&fontAlignY=68&fontColor=333333" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=180&color=ffdddd&text=Han's%20Gitbub&fontSize=65&fontAlignY=68&fontColor=333333" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=radical"
