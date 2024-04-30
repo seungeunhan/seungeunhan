@@ -28,7 +28,7 @@
   <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/  JSP  -E34F26?style=for-the-badge"/></a>
   
   
 
