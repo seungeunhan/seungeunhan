@@ -19,7 +19,6 @@
 
   </div>
 
- <br/>
 <div align=center>
 
    ### 🥇 Baekjoon Solved Lank
