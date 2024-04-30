@@ -3,8 +3,7 @@
   <br>
   <br>
   <br>
-  <div style="text-align: center;"><p style = "text-align: center; font-size: 15px;">안녕하세요😊 <br> 웹 개발자를 목표로 공부중인 신입 개발자입니다!<br> 새로운 기술을 배우고 성장하는 것을 즐기며 깃허브에서 모든 코드를 관리하고 있습니다.</p></div>
-  
+  <div style="text-align: center;"><p style = "text-align: center; font-size: 10px;">안녕하세요😊 <br>  새로운 기술을 배우고 성장하는 것을 즐기는 신입 개발자입니다!<br> 웹 개발자를 목표로 공부중이며, 노션과 깃허브에서 코드 및 프로젝트 관리를 하고 있습니다.</p></div>
   
   <a href="https://www.notion.so/SEHan-15b3169807a64442869953b9a1d216ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   
