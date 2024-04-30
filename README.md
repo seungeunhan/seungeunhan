@@ -17,7 +17,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namu_yo)](https://solved.ac/namu_yo)
     
   ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungeunhan&layout=compact&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungeunhan&layout=compact&theme=radical)
   
  </div> 
 
