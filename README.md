@@ -14,9 +14,10 @@
   # 📚 Dev Log's 📚
   <br/>
   <a href="https://www.notion.so/SEHan-15b3169807a64442869953b9a1d216ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
-  <br/><br/>
-  # 📚 Tech Stack 📚
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <br/><br/><br/><br/>
+  
+  # ⚒ Tech Stack ⚒
   <br/>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -27,7 +28,7 @@
   <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge"/></a>
   
   
 
