@@ -44,16 +44,11 @@
 
   <br/><br/><br/><br/><br/><br/>
 
-<div style="display:flex; flex-direction:row;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </picture>
 
+  
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dracula)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namu_yo)](https://solved.ac/namu_yo/)
-</div>
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&fontAlign=50&fontAlignY=45&section=footer&reversal=false&fontColor=333333&strokeWidth=0&descAlign=60&descAlignY=60" />
 </div>
