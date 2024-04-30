@@ -3,7 +3,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=seungeunhan&show_icons=true" />
