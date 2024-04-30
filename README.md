@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=shark&height=250&color=ffdddd&text=Han's%20Github!&fontSize=70&fontAlignY=43&fontColor=333333&fontAlign=50&section=header&animation=twinkling" />
   <div style="float: left;">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?    url=https%3A%2F%2Fgithub.com%2Fseungeunhan&count_bg=%23F192B5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true"/></a>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungeunhan&count_bg=%23F192B5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
   </div>
 
   <div style="clear: both;"></div>
